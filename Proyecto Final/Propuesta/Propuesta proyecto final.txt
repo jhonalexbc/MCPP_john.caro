@@ -1,5 +1,0 @@
-Mi propuesta cambio en comparación a lo descrito en la encuesta de google. 
-Lo que realice como proyecto final fue un Network  Analyisis a la base de 
-datos histórica de principales contratos adjudicados del World Bank Group Finances 
-para poder ver las principales relaciones en términos de tipo de contrato, 
-regiones que prestan y regiones que piden prestamos, entre otros análisis principales.
